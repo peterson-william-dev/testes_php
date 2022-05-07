@@ -1,7 +1,6 @@
 <?php
 
 $numerosSortidos = array();
-$numerosRepetidos = array();
 $numerosUnicos = array();
 
 for ($i = 0; $i < 20; $i++){
